@@ -1,0 +1,6 @@
+2026-10-10 10:15:22 INFO Successful login for user admin from IP 192.168.1.10
+2026-10-10 10:16:05 WARN Failed password for root from IP 203.0.113.50
+2026-10-10 10:16:08 WARN Failed password for root from IP 203.0.113.50
+2026-10-10 10:16:12 WARN Failed password for root from IP 203.0.113.50
+2026-10-10 10:16:15 WARN Failed password for root from IP 203.0.113.50
+2026-10-10 10:20:01 INFO Successful login for user jdoe from IP 192.168.1.15
